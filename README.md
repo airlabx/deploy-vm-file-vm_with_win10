@@ -9,7 +9,7 @@ Setup a quick Lab with a few Windows Server 2016 server and a Windows 10 VM on H
 - Hyper-V test network name
 
 ### Running
-Check the variable paths and the execution policy and run the Powerhsell deploy-vm-file-vm_with_win10.ps1.
+Check the variable paths and the execution policy and run the Powerhsell script deploy-vm-file-vm_with_win10.ps1.
 
 ```
 PS C:\Users\User> .\deploy-vm-file-vm_with_win10.ps1
